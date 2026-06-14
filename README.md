@@ -11,6 +11,10 @@
 [![Issues](https://img.shields.io/github/issues/ishan/CSSFrameworks2024?style=for-the-badge&color=e74c3c)](https://github.com/ishan/CSSFrameworks2024/issues)
 [![License](https://img.shields.io/github/license/ishan/CSSFrameworks2024?style=for-the-badge&color=2ecc71)](LICENSE)
 [![CSS3](https://img.shields.io/badge/Made%20with-CSS3-orange?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<a href="https://github.com/ishandutta2007">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+</a>
+
 
 ---
 
