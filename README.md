@@ -131,10 +131,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
+
+## 📈 Star History
+
 <div align="center">
-
-![SEO Footer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh3NXN4NXN4NXN4NXN4NXN4NXN4NXN4NXN4NXN4NXN4NXN4NXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif)
-
-**Happy Coding! 💻**
-
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FCSSFrameworks2024&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2024&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2024&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2024&type=date&legend=bottom-right" />
+    </picture>
+   </a>
 </div>
